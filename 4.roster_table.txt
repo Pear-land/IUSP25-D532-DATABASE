@@ -1,0 +1,667 @@
+roaster_id,producer
+0001,Metad Plc
+0002,Na
+0003,Yidnekachew Dabessa Coffee Plantation
+0004,Hvc
+0005,Bazen Agricultural & Industrial Dev't Plc
+0006,Diamond Enterprise Plc
+0007,Fahem Coffee Plantation
+0008,Alfredo De Jesús López Pérez
+0009,Jorge Walter Restrepo
+0010,Robert  Sharon  Arianna Wood
+0011,María Leticia Diosa
+0012,P.T. Toarco Jaya
+0013,Green Gold Ethiopia
+0014,Echo Coffee
+0015,Levelup
+0016,Nicolás Rueda Urrego
+0017,Several
+0018,Roberto Licona Franco
+0019,Silvia Elena Higuita
+0020,Ralph Junqueira
+0021,Kabum Trading Company
+0022,Reinerio Zepeda
+0023,Fang Zheng-lun 方政倫
+0024,Homero Texeira De Macedo Junior
+0025,Exclusive Coffees S.A.
+0026,Haider Abamecha Abadiko
+0027,Kangunu
+0028,Kona Pacific Farmers Co-op
+0029,Ato Teshome Belamo
+0030,Hugo Sepúlveda Montoya
+0031,Itdp
+0032,Maria Rogeria Costa Pereira
+0033,Lin Yen Chien 林言謙
+0034,Jungle Estate
+0035,Kaasay Farmer Group
+0036,Kawacom
+0037,Sidama Coffee Farmers Coop. Union
+0038,Hula Daddy Kona Coffee
+0039,Margarita Avila De Nuyens
+0040,Kawacom (U)Ltd
+0041,Plinio Ruiz
+0042,Ibrahim Hussien Specialty Coffee Producer And Exporter
+0043,Sertrasa
+0044,William Estuardo Martinez Pacheco
+0045,Seid Damtew Coffee Export And Plantation
+0046,Colbran Coffeelands  Ltd.
+0047,Aida Batlle
+0048,Oscar Roberto Murgas Linares
+0049,Lamastus
+0050,Assefa Belay Coffee Producer
+0051,Kyagalanyi Coffee Ltd
+0052,Asociacion De Permacultores De Cuilco (Santos Lopez Mejia)
+0053,Chesiyo Farmer Group
+0054,José Vagner Ribeiro Junqueira
+0055,J. Hill Y Cia Sa De Cv
+0056,Pu'er City Longke Coffee Co.Ltd
+0057,Arturo Aguirre
+0058,Cafe Altura De San Ramon
+0059,Kianjogu - Rutuma F.C.S. Ltd.
+0060,Blend From Various Producers
+0061,Egziabhez Mezgebe  Gmt Industrial Plc
+0062,Hailu Gebre Hiwot
+0063,Varios
+0064,Coop. Hoja Blanca - Fedecocagua
+0065,Seid Damtew Coffee Planation
+0066,Jose Albeiro Gomez / Luis Jaber Realpe
+0067,Bnt
+0068,Orlando Ortiz /Wilson Ortiz/Gilberto Acosta
+0069,Kona Pacific Farmers Cooperative
+0070,Muluneh Kaka
+0071,La Plata
+0072,Manuel Montero
+0073,Varios Productores Minifundistas
+0074,Idalina M. De Andrade Ferreira
+0075,Finca Kassandra
+0076,Federico Weller
+0077,Su Chuen Shian 蘇春賢
+0078,Hasambo Amcos
+0079,Artemio Zapata Tejeda
+0080,Glaucio Carneiro Pinto
+0081,Ricardo Luiz Ferreira
+0082,Wang Chao Yung 王超永
+0083,Sipi Organic Coffee Project
+0084,Matsuzawa Coffee
+0085,Karatina
+0086,Omar Acosta
+0087,Several Producers
+0088,Juan Alvaro Munguia
+0089,J.J. Borja Nathan
+0090,Pt. Shriya Artha Nusantara
+0091,Taijiro Tokuda
+0092,Johanna
+0093,Juan Bock
+0094,Coopetarrazú
+0095,Moplaco
+0096,Maria Elena Castro
+0097,Coricafe Blend
+0098,Gu Yong Long 古永龍
+0099,Sasini
+0100,Agropecuaria Quiagral
+0101,Jorge Torres Beltran  Vicente Hernandez Ochoa  Ignacio Torres
+0102,Cecanor
+0103,Blend
+0104,Roberto Monterroso
+0105,Amilcar Lapola
+0106,Changeru Wet Mill
+0107,Geraldo Paixão
+0108,Various
+0109,Kawacom Uganda Ltd
+0110,Menglian Ban’An Coffee Processing Factory
+0111,Puer Jiangcheng Fuwang Coffee Biotechnology Co.  Ltd
+0112,Luis Rodriguez
+0113,Maria Imelda Uscanga Martinez
+0114,Santiago Jose Arguello Campos
+0115,Agricola Nueva Granada  S.A
+0116,Mmm
+0117,Beneficio San Diego
+0118,Surbakti
+0119,Franklin Dussan
+0120,Kao Ming Lee
+0121,Maria Amalia Guadalupe Toriello Elorza
+0122,Mutheka
+0123,Nahun Maldonado
+0124,Franklin Dussan / Andres Rodriguez/Hipolito Torres
+0125,Victor Hugo Melchor Cordova
+0126,Lucia Maria Da Silva Dias
+0127,Antônio Pelucio
+0128,Oromia Coffee Farmers Cooperative Union
+0129,Miguel Hernandez
+0130,黃美桃 Huang Mei Tao
+0131,Jose Albeiro Gomez
+0132,Finca Medina
+0133,Horacio Cifuentes Martinez
+0134,Menglian County Nayun Town Mangzhang Coffee Farm
+0135,Franklin Dussan/Andres Rodriguez/Hipolito Torres
+0136,Tembo Coffee Company Ltd
+0137,Taylor Winch (T) Ltd
+0138,Jesus Salazar Velasco
+0139,Manuel Herrera Juarez
+0140,Ernst Pohlenz Aguilar
+0141,Jorge Leal
+0142,Los Angeles Micro-mill (Ricardo Calderón)
+0143,Dary Colman Alvarado Villatoro
+0144,Fernando Fahsen
+0145,Chapultepec
+0146,Cooperativa El Gorrion Rl
+0147,Mauro Galheri
+0148,Martin Gutierrez
+0149,Tariku Oljira
+0150,Selian Coffee Estate
+0151,Café Do Paraíso
+0152,Agricola Monte Verde  S.A.
+0153,Anton Gayo
+0154,Franklin Dussan / Hipolito Torres
+0155,Chang Yu Liang 張玉良
+0156,Asociacion De Productores De Cafe De La Region Ixil
+0157,Andres Martinez Leon
+0158,Kerchanshe Trading P.L.C
+0159,Otoniel Villatoro Lopez
+0160,Ipanema Coffees
+0161,Blend Of Various Producers
+0162,Doi Tung Development Project
+0163,NA
+0164,Ipanema Agricola S.A
+0165,Cafes Tomari Sa De Cv
+0166,Phatang  Saveg
+0167,Ipanema Agricola
+0168,Yang Teng Ko楊登嵙
+0169,張瑞宏
+0170,Oscar Ortega Carballo
+0171,Arturo Lievano Moreno
+0172,Coop
+0173,鄭虞坪
+0174,Ipanema Agrícola Sa
+0175,Zeng Jian Nan 曾建男
+0176,Sumeya Yasin
+0177,Filemon Mendoza Campos
+0178,Nazareth Dias Pereira
+0179,Doi Chaang Community Enterprise Piko
+0180,Karogoto
+0181,曾如楓 & 郭俊宏 (Tseng Ju Feng & Kuo Jun Hong)
+0182,Pu’Er Specialty Coffee Cupping Center
+0183,Nile Highland Arabica Coffee Farmers
+0184,Hacienda Alto Grande
+0185,Martinez Magdalena  Agapita
+0186,Several Producres
+0187,Carlos Peneche/Jesus Peneche/Flor Chacón
+0188,Nchoroiboro / Kiriani Factory
+0189,Ronaldo Lacayo Cardenal
+0190,Agrotello Coop
+0191,Francisco Luis Martinez Lopez
+0192,Huila
+0193,Finca Quequesquez
+0194,Juan Luis Ortega Carballo
+0195,Pt. Perkebunan Nusantara Xii
+0196,Siembras Vision  S.A
+0197,Juan Ramirez Morales
+0198,Menglian Mang Pan Professional Cooperative
+0199,Exportadora Café California
+0200,Bulamburi Coffee Farmers Association
+0201,Gu Zhi Min 古智閔
+0202,Julian Alberto Urrutia Moya
+0203,Orlando Ortiz/Wilson Sanchez/Gilberto Acosta
+0204,Alvaro Resende Aguiar
+0205,Orlando Moreno / Willson Sanchez
+0206,黑咖啡道王憲備
+0207,Mecias Urbano / Yaniver Alvarez
+0208,Mr & Mrs Damari Absalome
+0209,Yusrin
+0210,Debesa
+0211,Unex
+0212,Reynerio Zepeda
+0213,Armando Gutierrez Guzman
+0214,Gabriel Bernard Rivas Ross
+0215,Rnp Santo Tomas Pachuj / Kanematsu Corporation
+0216,Conquistamorito
+0217,Franklin Dussan / Hipoloto Torres
+0218,黃素貞0939227229
+0219,Bulago & Buginyanya
+0220,Ibero El Salvador  S.A. De C.V.
+0221,Gabriel Carvalho Dias
+0222,Ngila Estate Ltd
+0223,Siembras Visión  S.A.
+0224,Exportadora De Cafe Condor
+0225,Productores De Cafe De El Cuarenteno  S. De P.R. De R.L
+0226,Ecc
+0227,Mondul Coffee Estate
+0228,José Luis Andrade Sandara
+0229,Coopcab
+0230,Orlando Ortiz / Hipolito Torres
+0231,Condor
+0232,Balbino Ramirez Flores
+0233,Coopellanobonito
+0234,Pablo Chuy
+0235,Rafael Arroyo Zoto
+0236,蘇詠晴
+0237,Vrios Productores
+0238,Ernesto Rodriguez Luna
+0239,Modesto Landeros Flores
+0240,Eliane De Andrade Cyrino Noqueira
+0241,Exportadora De Café Cóndor S.A
+0242,Agroindustrias Cafetaleras
+0243,Mamsera
+0244,Yeh  Li Chuan
+0245,Jose Omar Acosta
+0246,Mojiang Jinggong Estate Speciality Development Co.Ltd
+0247,Yunnan Success Trade Co.Ltd
+0248,Ecom Agroindustrial Corp. Ltd.
+0249,Papaturro
+0250,Tutunze Kahawa Ltd
+0251,Unkown
+0252,Nelson Melgar Melgar
+0253,Agricola Nueva Granada  S.A.
+0254,Margarito Roblero Vazquez
+0255,Amador Hernandez Dionicio
+0256,Trejo Velasco  Roman
+0257,Fernando Mendoza Aparicio
+0258,Octavio Moguel Farrera
+0259,Giovane Senna Bonacorssi
+0260,Maria Aparecida Ferreira Azevedo
+0261,Conquista / Morito
+0262,Andrea Galvão Noqueira
+0263,Mario Dornelles Alvarenga
+0264,Tega And Tula Special Coffee Farm
+0265,Tseng Ju Feng / Kuo Jun Hong 曾如楓 / 郭俊宏
+0266,Fang Zheng Lun 方政倫
+0267,Maria Luisa Del Carmen Rojas Narvaez
+0268,Grupo Monserrate  La Plata
+0269,Pt. Menacom
+0270,Xavier Baluku
+0271,Emmanuel Munaaba
+0272,Yeh  Li Chuan.
+0273,Ovidio Cardona
+0274,Agricola Nueva Granada  S. A.
+0275,João Alves Toledo
+0276,雅慕伊
+0277,Kucofa Farmers Group
+0278,Grupo Medina
+0279,Coffee Company / Cafecol
+0280,Orlando Ortoz / Hipolito Torres
+0281,Gonzalo Rivero Puerto
+0282,Santiago Solis Ayerdi
+0283,Franco Colorado Dominguez
+0284,Exportadora Condor
+0285,Nuevos Mercados  S.A.
+0286,Juan Augustinpalacio
+0287,Balcanes Coffee Estates  S.A. De C.V.
+0288,許文郎
+0289,Hineleban Foundation
+0290,Ephemera Traders
+0291,Catalina Rodriguez Mayorga
+0292,Fiech
+0293,Gerson Naimeg
+0294,Nyapea Coffee Farmers Association
+0295,Siembras Vision  S.A.
+0296,Ottoniel Villatoro Lopez
+0297,Maria Guadalupe Gomez Anzo
+0298,Apollo Co.  Ltd.
+0299,Werclein Hernandez Serrano Id.-1506728641
+0300,Keremara Limited
+0301,El Barbaro  S.A. De C.V.
+0302,Bufcoffee_Gicumbi
+0303,Antonio Batista Francisquine
+0304,Mercedes Narvaez
+0305,Pt. Olam Indonesia
+0306,Mrs. Galeano
+0307,Burka Coffee Estate
+0308,Armando Luis Pohlenz Martinez
+0309,Olivia Hernandez Virues
+0310,La Majada Cooperative
+0311,Plantaciones Agropecuarias S.A
+0312,Pablo Arturo Chuy Flores
+0313,Angel De Leon
+0314,Otto Becker
+0315,Jesus Ramirez
+0316,Vary Farm
+0317,林俊吉( Lin  Chun-chi)
+0318,Soc. Coop. De Caf. De Ciudad Barrios De R.L.
+0319,Puwen Lvyou Coffee Co. Ltd
+0320,Pu'er Lingdu Yunlin Coffee Co.Ltd
+0321,Mzuzu Coffee Planters Coop Union
+0322,Carlos O. Velazco Lopez
+0323,Francisco R. De La Vequia Bernardi
+0324,Romulo Bello Flores
+0325,Supply Chain Ecom Cca S.A.
+0326,Price Peterson
+0327,Paksong Laos
+0328,Manoel Cardoso And Galileo Cardoso
+0329,Nitin Coffee Estate
+0330,林道明
+0331,Avelino Chavez Reyna
+0332,Xu Ding Ye 許定燁
+0333,Koju Matsuzawa
+0334,Amin Javier Moises Ceja
+0335,Maria De Lourdes Ancira Elizondo
+0336,Mariana Cabrera Pantoja; I.D.: 27 423 625
+0337,林文弘 Lin Wen Hong
+0338,陳勝樂0912326001
+0339,Small Holders Farmer
+0340,Coffeas Co.  Ltd.
+0341,Huatusco
+0342,Guillermo Rojas Saldaña
+0343,Federico Enciso Michel; Leodan Enciso Figueroa; Jaime Lopez Lopez
+0344,Mario Garcia Reis Neto
+0345,Vary
+0346,Shah Plantations
+0347,Amkeni Gourmet Coffee Group
+0348,Santiago & Rosaura Arguello Campos
+0349,Margarita De Nuyens
+0350,Velasco San Agustin  Nazario
+0351,Enrique Mitre Lopez
+0352,Susana Leticia Lopez Aguilar
+0353,Danilo Carrillo
+0354,Plantaciones Agropecuarias  S.A.
+0355,Menglian Gao Sanlin Coffee Factory
+0356,Gladness Obed Pallangyo
+0357,Betina Vilela Reis
+0358,Emperatriz Garcia Muñoz
+0359,Victor Manuel Lopez Vazquez
+0360,Gibran Leonardo Cervantes Covarrubias
+0361,Dario Francisco Galeana Solis
+0362,Jose Daniel Cobilt Castro
+0363,Alvaro Quiros Perez  Miguel Quiroz Perez
+0364,Olivia Hernandez Virves
+0365,Robin Cleaver
+0366,Jaime Pulido / Albino Mahecha / Freddy Mendez
+0367,Glycia Maria
+0368,Tulio Taft Bovaretto
+0369,Yun Lan Coffee Co. Ltd
+0370,Amancio Del Valle Carrillo
+0371,Zhang Shui Sheng 張水勝
+0372,Lin Yu Ding 林玉定
+0373,Agroindustrias Unidas De Mexico Sa De Cv
+0374,Cafe Molino Monterroso P J. Roberto
+0375,Salazar Hernandez  Roberto
+0376,José Malagutti
+0377,Maria Luisa Delcarmen Rojas Narvaez
+0378,José Alberto Dos Santos
+0379,Jaime Pulido / Ermilson Ramos
+0380,Nagipe Viana Klem
+0381,林玲美0918232039
+0382,Tropical Farm Management El Salvador  S.A. De C.V.
+0383,Mzuzu Coffee Coop Union
+0384,Lin Yu Tang 林玉堂
+0385,Maria Del Rosario Irais Valdivia Ortiz
+0386,Felix De La Cruz Casimiro
+0387,Sergio De La Vequia Bernardi
+0388,Carmem Lucia Chaves De Brito
+0389,Marcio Alberto Rivera Castellon
+0390,Langiro Farm Group
+0391,Union Ramal Santa Cruz
+0392,Guo Zhang Sheng 郭章盛
+0393,Jufeng-tseng 曾如楓
+0394,Avila Martinez Adolfo
+0395,Salvador Caro Carrion
+0396,Oscar Torres Ochoca  Genaro Mata Camberos  Manuel Duarte Munguia
+0397,Various Farms
+0398,Jose Francisco Gonzalez
+0399,Ampcg
+0400,Ngorogoro Convenant Estate
+0401,Cafetalera Aquiares
+0402,Ismam San Isidro Labrador S. De S.S.
+0403,Rosa Aurora Falcon Fernandez
+0404,Ramiro De La Vequia Bernardi
+0405,Carlos Pechene / Jesús Pechene / Flor Chacón
+0406,Santos Fonseca
+0407,Mr & Mrs Didas Mallya
+0408,Hanyong Choi
+0409,Finca Estate
+0410,Chen Jin Lin 陳金璘
+0411,Bsr
+0412,Lin Huang  A-mien 黃阿綿
+0413,Jorge Octavio Escamilla Prado
+0414,Vander Bonaccorsi
+0415,José Hiroiti
+0416,Paul Stauder
+0417,Maria Da Gloria Junqueira
+0418,Conquista/Morito
+0419,Agricola El Pilar  S.A.
+0420,Múcio Cardoso
+0421,Comercial Exportadora  S.A. De C.V.
+0422,Mcomafa
+0423,Chen Gui Jiao 陳桂嬌
+0424,Varios Productores
+0425,Ponce Rubio  Venancio
+0426,Francisco Saenz  Fernando
+0427,Juan Hermilio Sampieri Carcamo
+0428,Fioravante Malagutti
+0429,Helena Pingnatti Ricci
+0430,Mudar
+0431,U Mg Mg
+0432,Martiniano A. Moreno Alvarado
+0433,Lin Sin Ji 林信吉
+0434,Tomás Sosa  Juan Damaso
+0435,Various Small Producers
+0436,Maria Magdalena Luethje Y Gris
+0437,Jorge Francisco Martinez Hachity
+0438,Marilsa De Fatima Peternela
+0439,Richard Yeh
+0440,Perez Lemus  Felix
+0441,Sergio Landa Alarcon
+0442,Cenen Torres Cortes  Avelino Tores Cortes  Juan Ventura Guzman
+0443,Graciela Aguilar Peralta
+0444,Ngima Amcos
+0445,Rolando Lacayo Cardenal
+0446,Dae Ltd
+0447,Zhang Ming Fu 張明福
+0448,Wu Cai Jin 吳蔡錦
+0449,Productora Agricola Y Ganadera Finca La Suiza
+0450,Maya Binik
+0451,Cesar Santiz Lopez
+0452,Armando Gutierez Guzmán
+0453,Cafes Finos De Corquin
+0454,Agricola El Pilar  Sa.
+0455,蘇晉寬 Su Jin Kuan
+0456,Acacia Hills Ltd
+0457,Chiu Wei Lun 邱偉倫
+0458,Luis Antonio Lopez Aguilar
+0459,Enrique Eduardo Lopez Aguilar
+0460,Coopetarrazu
+0461,Teófilo Narváez :
+0462,Agricola Monte Verde
+0463,劉易騰
+0464,Genius Coffee Estate
+0465,Beneficio La Eva S.A.
+0466,Huang Mei Tao 黃美桃
+0467,Mixed
+0468,Xu Yuan Zhang 徐源漳
+0469,Jorge Hernandez Montejo
+0470,Zenobio Martinez Cano
+0471,Manuel Duarte Munguia
+0472,Tomas Edelmann Blass
+0473,Maria De La Paz Aguilar Guillen
+0474,Chiquimulja / Alpha Cafe / Senfro
+0475,Inacio Urban
+0476,謝文品
+0477,Pachuj  S. A.
+0478,Martinez Bautista  Nicolas
+0479,Maria De Loudes Ancira Elizondo
+0480,Exportadora De Cafe Condor S.A
+0481,Juan Hermilo Sampieri
+0482,Nelson Azevedo França
+0483,Coffee For Peace Inc.
+0484,Hector Gabriel Barreda Nader
+0485,Hu Guei Jing 胡桂青
+0486,Rolando Lacayo
+0487,El Injerto S.A.
+0488,Shangrilla Estate
+0489,Liu Ying Wu 劉穎悟
+0490,Francisco J. Contreras Martinez De Escobar
+0491,Gonzalo Castillo
+0492,Immaculata John
+0493,R.W.J. Wallace Ltd
+0494,Jose Renato Baiardi
+0495,Bruno De Andrade Frota
+0496,Kerchanshe Trading Plc
+0497,José Olavo Boechat
+0498,Juanana Coffee Association
+0499,Medina Pedrero Productos Agrícolas Sa De Cv
+0500,Diego Manuel Woolrich Ramirez  Alfredo Fernando Woolrich Ramirez
+0501,Etmar Didier Roblero Lopez
+0502,Gabriel De Carvalho Dias
+0503,Hu Kuei Ching 胡桂青
+0504,Nelson Melgar & Regino Melgal
+0505,Mlimani Ngarashi
+0506,Zhou Hong Xiu 周紅秀
+0507,Martha Palacios
+0508,蕭閔家
+0509,Thiririka/Thima
+0510,Jose Oscar Garza Sardaneta
+0511,Min Hlaing
+0512,Karatu Estate
+0513,張文進
+0514,Lu Bi Yun呂碧云
+0515,Ding Jin Cai 丁金財
+0516,Lu Xing Hui 呂星輝
+0517,Eduardo Luis Augusto Velazquez Solis
+0518,Domingo Muguira Revuelta
+0519,Juan Jose Casas Blanco
+0520,Moises Guillermo Carrera Montes
+0521,Diogo Tudela Neto
+0522,U Soe
+0523,La Gran Manzana
+0524,Jose Rios Lara  Apolonia Franco Torres  Jenaro Gonzales Mendoza
+0525,Coopaimar Copperative Agro Industriel De Marmelade
+0526,唐權盛
+0527,Pachuj  S.A
+0528,Max Kend Takiuti E Outros
+0529,Adonis Jose Ortez Beltran
+0530,Burka Coffee Estates
+0531,Byron Alonzo Solis
+0532,王秋金
+0533,Edwin Muñoz
+0534,Jorge Alfredo Pinto
+0535,Case Noyale Ltd
+0536,Lindolpho De Carvalho Dias
+0537,Shwe Yin Mar
+0538,Idmar De Jesus Velasquez Calderon
+0539,Heras Hernandez Gaudencio
+0540,曾林春英
+0541,Luis  Rafael And Carmen Silva Hoff
+0542,Alicia's Farm
+0543,Huang San Lang 黃三郎
+0544,Carlos Alberto Gomez
+0545,Sogestal Mumirwa
+0546,Delfina Leon Shine
+0547,Kongoni Estate
+0548,Wu Yi Ting 吳伊婷
+0549,Agripec De La Vega Y Cia.
+0550,Luiz Augusto Pereira Moguilod
+0551,Yamilet Lope
+0552,Waylead Co  Ltd
+0553,U Htun Htun
+0554,Gloria Antonieta Escobar Urrutia
+0555,Weng Hui Ling 翁惠鈴
+0556,Hernandez Pacheco  Timoteo
+0557,Sheldom La Rue
+0558,Pablo Enrique Martinez Gama
+0559,Cirilo Jose Jose
+0560,Marco Virgilio Ramirez Teliz
+0561,簡義榮
+0562,Du Zheng Ru 杜政儒
+0563,Zheng Zhao Ming 鄭昭明
+0564,Wu Kun Shan 吳焜山
+0565,Alberta Teodoro Analco
+0566,Federico Pacheco Perez
+0567,Ngu Shwe Li Coffee Estate
+0568,Zhang Xian Tong 張献銅
+0569,Semiramis Casas Velazquez
+0570,Delmar Moreno Guillen
+0571,Maria Elena Teresa Fernandez Ceja
+0572,Yara / Benvar
+0573,Asociación Aldea Global Jinotega
+0574,Ciro De La Vequia Cessa
+0575,Wei-chieh ( Jack ) Hua
+0576,Lin Ren Fu 林人富
+0577,Coopeagri
+0578,Comonyaj Noptic S De Ss
+0579,Minerva Zuñiga Garcia
+0580,Angel Gonzales
+0581,Jorge Bolanos
+0582,Alfredo Moises Ceja
+0583,Sociedad Cooperativa De Cafetaleros De Ciudad Barrios De R.L.
+0584,Gomez Granillo  Veronico
+0585,Cecilia Avila Camberos
+0586,Rogelio Jacome Morales
+0587,Cooperativa De Servicio Múltiples El Gorrión R.L
+0588,張素真
+0589,Maria De La Luz Sanchez Todd
+0590,Adriana Torres Rico Quevedo
+0591,Cnra
+0592,Spot
+0593,Eric Jesus Cordoba Arroyo
+0594,Antonio Cordoba Murillo
+0595,Conquista/ Morito
+0596,Wu Shu Yi 巫叔憶
+0597,Hilario García Sandoval
+0598,Socieadad Cooperativa Industrial Cafes Yajalon S. C. L.
+0599,Various Smallholders
+0600,Guadalupe Heras Hernandez
+0601,Juana Rodriguez Gutierrez
+0602,Cooperativa Coaquil
+0603,Frontera
+0604,Gonzalo De Aquino Flores
+0605,Juan Cruz Riaño
+0606,Juan Avenamar Rodriguez Funez
+0607,Luisa Zuñiga García
+0608,Teófilo Narváez
+0609,Jose Vazquez Canton  Jose Antonio Jimenez Gonzalez  Ireneo Garcia Valdivia
+0610,Damaso Martinez Perez
+0611,Pedro Herrera Guzman  Aurelio Gabriel Hernandez  Maria De Lourdes Deristain Tress
+0612,Yunnan Louis Herbs R&D Center
+0613,Juan Garcia Hernandez
+0614,Guo Jiun Hung 郭俊宏 & Tseng Ru Feng 曾如楓
+0615,Epifanio Garcia De Miguel
+0616,J. Carmen Guzman Concepcion  Ignacio Ramirez Barajas  Dionicio Garcia Ramirez
+0617,Reynaldo Olivera Rios
+0618,Francisco Ruiz Nuñez
+0619,Lamberto José García
+0620,Pablo Cervantes Morelos
+0621,Vary Farms
+0622,Consuelo Gonzalez Gomez
+0623,Greenhouse Coffee
+0624,Mario García
+0625,Gustavo Abarca Solis
+0626,N/A
+0627,Chen Shuei Lian 陳水連
+0628,Rubria Ochoa Bello
+0629,Margarita De Nuyens Y/O Carlos Nuyens
+0630,Aquilino García Riaño
+0631,Alejandro García Palacios
+0632,Sol Y Cafe
+0633,Aspinwall & Co. Ltd
+0634,Castulo Gutierrez
+0635,Isidora Heras Hernandez
+0636,NA
+0637,Guillermo Eduardo Bobadilla Muguira
+0638,Sposel S. De S.S.
+0639,Suraya Magdalena Lotfe Calderon
+0640,Martín Jimenez Casiano  Paulina Cerqueda Alvarez  Julio Martinez Teran
+0641,Miguel Lopez Tirzo
+0642,Geremias Riaño Lopez
+0643,Cesmach (Varios)
+0644,Myrna Roxana Gálvez González
+0645,Eugene Holman Pew
+0646,Asosyasyon Plantè Kafe Krètapen (Apcap) ;Asosyasyon Plantè Kafe Basen (Apkba);Asosyasyon Plantè Kafe
+0647,José Armando Norberto Borzani Lemini
+0648,Ricardo Aaron Sampieri Marini
+0649,Juan Carlos García Lopez
+0650,Coeb Koperativ Ekselsyo Basen
+0651,Ankole Coffee Producers Coop
+0652,Nishant Gurjer Kaapi Royale
+0653,Nishant Gurjer
+0654,Ugacof
+0655,Katuka Development Trust Ltd
+0656,Sethuraman Estates
+0657,Sethuraman Estate Kaapi Royale
+0658,Nsubuga Umar
+0659,Ugacof Project Area
+0660,Kasozi Coffee Farmers Association
+0661,Ankole Coffee Producers Coop Union Ltd
+0662,Nishant Gurger
+0663,Kigezi Coffee Farmers Association
+0664,Mannya Coffee Project
+0665,Café Robusta Del Ecuador S.A.
+0666,Cafe Cazengo

@@ -1,0 +1,923 @@
+farm_id,company,owner,farm_name,coffee_bean_id
+0001,metad agricultural developmet plc,metad plc,metad plc,0001
+0002,metad agricultural developmet plc,metad plc,metad plc,0002
+0003,NA,grounds for health admin,san marcos barrancas san cristobal cuch,0003
+0004,yidnekachew debessa coffee plantation,yidnekachew dabessa,yidnekachew dabessa coffee plantation,0247
+0005,NA,ji-ae ahn,NA,0679
+0006,richmond investment-coffee department,hugo valdivia,NA,0006
+0007,NA,ethiopia commodity exchange,aolme,0012
+0008,diamond enterprise plc,diamond enterprise plc,tulla coffee farm,0008
+0009,fahem coffee plantation,mohammed lalo,fahem coffee plantation,0247
+0010,coffee quality institute,cqi q coffee sample representative,el filo,0010
+0011,coffee quality institute,cqi q coffee sample representative,los cedros,0010
+0012,NA,grounds for health admin,arianna farms,0011
+0013,coffee quality institute,cqi q coffee sample representative,el águila,0010
+0014,NA,grounds for health admin,toarco jaya,0013
+0015,NA,ethiopia commodity exchange,NA,0032
+0016,yunnan coffee exchange,yunnan coffee exchange,echo coffee,0062
+0017,essence coffee,essencecoffee,drima zede,0016
+0018,coffee quality institute,cqi q coffee sample representative,el rodeo,0010
+0019,the coffee source inc.,the coffee source inc.,several,0809
+0020,NA,roberto licona franco,la herradura,0018
+0021,coffee quality institute,cqi q coffee sample representative,la curva,0010
+0022,NA,ji-ae ahn,NA,0019
+0023,nucoffee,nucoffee,fazenda kaquend,0097
+0024,NA,ethiopia commodity exchange,NA,0041
+0025,kabum trading company,kabum trading company,chebonet (23) women coffee,0022
+0026,cigrah s.a de c.v,bismarck castro,los hicaques,0845
+0027,taiwan coffee laboratory,lin  che-hao krude 林哲豪,tsoustructive garden 鄒築園,0024
+0028,NA,nora zeas,NA,0025
+0029,NA,specialty coffee-korea,NA,0026
+0030,nucoffee,nucoffee,fazenda recreio,0134
+0031,exclusive coffees s.a.,francisco a mena,exclusive coffees s.a.,0028
+0032,haider abamecha coffee export,hider abamecha,haider abamecha coffee plantation,0247
+0033,c dorman ltd,daniel magu,kangunu,0029
+0034,kona pacific farmers cooperative,kona pacific farmers cooperative,NA,0950
+0035,NA,kona pacific farmers cooperative,kona pacific farmers cooperative,0079
+0036,NA,ethiopia commodity exchange,phone number | 0911-51-08-01  email | at,0032
+0037,coffee quality institute,cqi q coffee sample representative,la primavera,0010
+0038,lanna cafe,itdp international,co-op #12,0033
+0039,NA,jacques pereira carneiro,pereira estate coffee,0034
+0040,taiwan coffee laboratory,lin  che-hao krude 林哲豪,sunshine valley estate 向陽高山咖啡,0364
+0041,keremara limited,jungle estate,jungle estate,0036
+0042,ucda,great lakes coffee uganda,kaasayi,0037
+0043,lusso coffee lab,lusso lab,ecobio colombia,0038
+0044,lusso coffee lab,lusso lab,kianjavi,0039
+0045,kawacom uganda ltd,afca,NA,0040
+0046,NA,ethiopia commodity exchange,contact | sidacoop@ethionet.net,0041
+0047,NA,grounds for health admin,hula daddy kona coffee,0011
+0048,unex guatemala  s.a.,juan luis alvarado romero,la esperanza y anexos,0042
+0049,kawacom uganda ltd,kawacom uganda ltd,sipi organic coffee project,0297
+0050,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0586
+0051,ce specialty s.a.,gonzalo hernandez,la berlina estate,0045
+0052,ibrahim hussien specality coffee product & exporter,ibrahim hussien speciality coffee producer &export,NA,0247
+0053,sertrasa,juan luis alvarado romero,valparaiso,0047
+0054,unicafe,juan luis alvarado romero,finca el limon,1001
+0055,seid damtew coffee planation,seid damtew coffee planataion,seid damtew coffee planation,0049
+0056,sustainable harvest,dane loraas,NA,0050
+0057,cqi,colbran coffeelands  ltd.,tairora cherry – bonta,0051
+0058,atlantic specialty coffee,atlantic specialty coffee,el majahual,0052
+0059,lusso coffee lab,lusso lab,finca la esmeralda,0053
+0060,essence coffee,essencecoffee,elida estate,0054
+0061,essence coffee,essencecoffee,inoi,0055
+0062,assefa belay coffee producer,assefa belay coffee producer,NA,0056
+0063,kyagalanyi coffee ltd,kyagalanyi ltd,buginyanya,0057
+0064,exportcafe,juan luis alvarado romero,asoperc,0832
+0065,assefa belay coffee producer,assefa belay coffee producer,NA,0059
+0066,great lakes coffee,great lakes coffee uganda,chesiyo farmer group,0060
+0067,nucoffee,nucoffee,fazenda serra de três barras,0097
+0068,NA,grounds for health admin,sierra nevada,0061
+0069,yunnan coffee exchange,yunnan coffee exchange,pu'er city longke coffee co.ltd,0062
+0070,essence coffee,essencecoffee,el injerto s.a.,0747
+0071,the coffee source inc.,the coffee source inc.,several,0064
+0072,rashid moledina & co. (msa) ltd,rashid moledina & co. (msa) ltd.,NA,0067
+0073,ibero kenya limited,ibero kenya limited,NA,0067
+0074,NA,ethiopia commodity exchange,phone number | 0911-513824 email: gmt.ft,0032
+0075,NA,ethiopia commodity exchange,NA,0068
+0076,unex guatemala  s.a.,juan luis alvarado romero,la esperanza y anexos,0882
+0077,exportadora de cafe condor s.a,exportadora de cafe condor s.a,various,0070
+0078,ecom cca sa,compañia colombiana agroindustrial s.a,NA,0817
+0079,nomura trading co.  ltd.,nomura trading co.  ltd.,NA,0072
+0080,the coffee source inc.,the coffee source inc.,coop. hoja blanca - fedecocagua,0073
+0081,seid damtew coffee planation,seid damtew coffee planataion,seid damtew coffee planation,0074
+0082,carcafe ltda,carcafe ltda ci,NA,0075
+0083,the specialty coffee appraisers institute of asia,steven kil,aricha coop,0076
+0084,kona pacific farmers cooperative,eileen koyanagi,NA,0988
+0085,carcafe ltda,carcafe ltda ci,NA,0338
+0086,NA,kona pacific farmers cooperative,NA,0079
+0087,NA,ethiopia commodity exchange,NA,0080
+0088,NA,kona pacific farmers cooperative,kona pacific farmers cooperative,0940
+0089,kyagalanyi coffee ltd,kyagalanyi coffee ltd,mount elgon area,0137
+0090,racafe & cia s.c.a,racafe & cia s.c.a,NA,0405
+0091,bold coast coffee,troy quimby,estate la patricia,0662
+0092,cafetal el equimite  rancho agroecológico  s.p.r. de r.l.,el equimite  cafetal biodinámico,various,0085
+0093,c dorman ltd,simon mahinda,NA,0086
+0094,rashid moledina & co. (msa) ltd,rashid moledina & co. (msa) ltd.,machure estate,0067
+0095,nucoffee,nucoffee,sitío são geraldo,0593
+0096,NA,young kim,kassandra,0088
+0097,NA,carl walker,la igualdad,0897
+0098,racafe & cia s.c.a,racafe & cia s.c.a,NA,0263
+0099,taiwan coffee laboratory,lin  che-hao krude 林哲豪,baishengcun coffee 百勝村咖啡莊園,0093
+0100,taylor winch (t) ltd,taylor winch (t) ltd,hasambo amcos,0652
+0101,racafe & cia s.c.a,racafe & cia s.c.a,NA,0571
+0102,NA,artemio zapata tejeda,el suspiro,0985
+0103,nucoffee,nucoffee,fazenda grota funda,0097
+0104,nucoffee,nucoffee,sitio claro,0098
+0105,NA,brian speckman,NA,0099
+0106,taiwan coffee laboratory,lin  che-hao krude 林哲豪,shi fang yuan 十方源,
+0107,kawacom uganda ltd,kawacom uganda ltd,mt.elgon bugisu shamba 2,0297
+0108,NA,philip schluter,contact | sidacoop@ethionet.net,0041
+0109,matsuzawa coffee,松澤宏樹 koju matsuzawa,matsuzawa coffee,0101
+0110,c dorman ltd,lydiah mwangi,karatina,0102
+0111,cadexsa,cadexsa,cerro bueno,0997
+0112,NA,the coffee source inc.,several,0104
+0113,NA,grounds for health admin,santa martha,0105
+0114,cafetalera del pacifico,consejo salvadoreño del café,monterrey,0385
+0115,pt. shriya artha nusantara,sanjava coffee,sran temanggung plantation,0107
+0116,matsuzawa coffee,松澤宏樹 koju matsuzawa,ada farm,0108
+0117,panamerican coffee trading,rodrigo soto,rio jorco,0578
+0118,waelti schoenfeld exportadores de cafe  s.a.,juan luis alvarado romero,san diego buena vista,0110
+0119,coopetarrazú.r.l,fabian calderon mora,coopetarrazú,0189
+0120,essence coffee,essencecoffee,moplaco,0112
+0121,essence coffee,essencecoffee,finca salaca las brisas,0113
+0122,coricafe s.a.,eric thormaehlen,various,0114
+0123,thrive farmers,rob tuttle,NA,0115
+0124,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,dragon 龍咖啡,
+0125,ecom cca sa,compañia colombiana agroindustrial s.a,NA,0117
+0126,dream together inc.,dream together,NA,0118
+0127,unex guatemala  s.a.,juan luis alvarado romero,agropecuaria quiagral,0987
+0128,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,el nogal  la higuera  los laureles,0120
+0129,ugacof ltd,afca,NA,0121
+0130,NA,benjamin schmerler,NA,0122
+0131,keremara limited,jungle estate,jungle estate,0123
+0132,racafe & cia s.c.a,racafe & cia s.c.a,NA,0124
+0133,c dorman ltd,daniel magu,blend,0126
+0134,armajaro guatemala  s. a.,juan luis alvarado romero,el morito,0583
+0135,unex guatemala  s.a.,juan luis alvarado romero,el papaturro,0250
+0136,racafe & cia s.c.a,racafe & cia s.c.a,NA,0586
+0137,taylor winch (coffee) ltd,taylor winch (coffee) ltd.,NA,0130
+0138,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0571
+0139,lusso coffee lab,lusso lab,la chaparral,0132
+0140,exportadora de cafe condor s.a,exportadora de cafe condor s.a,various,0571
+0141,nucoffee,nucoffee,fazenda vista alegre,0135
+0142,beneficios volcafé costa rica,max gurdian,NA,0136
+0143,kawacom uganda ltd,ecom japan limited,kawacom sipi project,0137
+0144,yunnan coffee exchange,yunnan coffee exchange,menglian ban’an coffee processing factory,0062
+0145,federacion nacional de cafeteros,federacion nacional de cafeteros,NA,0138
+0146,puer jiangcheng fuwang coffee biotechnology co.  ltd,eric wu,puer jiangcheng fuwang coffee biotechnology co.  ltd,0836
+0147,unex guatemala  s.a.,juan luis alvarado romero,el sacramento,0966
+0148,dream together co. ltd,dream together,rumukia farmers,0118
+0149,NA,maria imelda uscanga martinez,la barranca,0141
+0150,ecomtrading,alfredo bojalil,finca el retiro,0142
+0151,transcafe  s.a,juan luis alvarado romero,nueva granada,0143
+0152,NA,daniel friedlander,NA,0144
+0153,NA,alexandra katona-carroll,NA,0145
+0154,beneficios volcafé costa rica,max gurdian,several farmers,0487
+0155,pt. olam indonesia,aulia arif syahri,darmawi,0147
+0156,carcafe ltda,carcafe ltda ci,NA,0148
+0157,racafe & cia s.c.a,racafe & cia s.c.a,NA,0490
+0158,tropica galliard,kao ming lee,tropica galliard,0150
+0159,finca hamburgo,maria amalia guadalupe toriello elorza,finca la chiripa,0152
+0160,NA,ethiopia commodity exchange,phone number | 0911-513824 email: gmt.ft,0153
+0161,c dorman ltd,lydiah mwangi,kigwandi,0462
+0162,cigrah s.a de c.v,bismarck castro,las cuchillas,0845
+0163,skn caribecafe ltda,raúl vargas,NA,0405
+0164,cigrah s.a de c.v,bismarck castro,los hicaques,0157
+0165,racafe & cia s.c.a,racafe & cia s.c.a,NA,0231
+0166,carcafe ltda,carcafe ltda ci,NA,0263
+0167,NA,victor hugo melchor cordova,la distancia,0890
+0168,NA,nucoffee,santa alina,0162
+0169,NA,nucoffee,fazenda baipendi,0163
+0170,NA,benjamin schmerler,NA,0164
+0171,NA,the coffee source inc.,las minas,0165
+0172,taiwan coffee laboratory,lin  che-hao krude 林哲豪,馨晴咖啡 good mood coffee,
+0173,matsuzawa coffee,松澤宏樹 koju matsuzawa,matsuzawa coffee,0167
+0174,carcafe ltda,carcafe ltda ci,NA,
+0175,siembras vision  s.a.,juan luis alvarado romero,finca medina,0169
+0176,exportcafe,juan luis alvarado romero,finca san vicente,0806
+0177,yunnan coffee exchange,yunnan coffee exchange,menglian county nayun town mangzhang coffee farm,0062
+0178,tembo coffee company ltd,tembo coffee company ltd,jacksom mwasenga,0172
+0179,taylor winch (t) ltd,taylor winch (t) ltd,suma jkt itende,0652
+0180,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0220
+0181,carajillo café sa de cv,jesus salazar velasco,pante carajillo,0176
+0182,NA,manuel herrera juarez,finca los barreales,0876
+0183,ecomtrading,alfredo bojalil,finca santa teresa,0178
+0184,bukonzo joint cfs,afca,NA,0179
+0185,unex guatemala  s.a.,juan luis alvarado romero,piamonte,0683
+0186,exclusive coffee - costa rica,wayner jimenez,los girasoles,0487
+0187,exportcafe,juan luis alvarado romero,finca la joya,0293
+0188,cafcom,juan luis alvarado romero,santo tomas pachuj,0184
+0189,unex guatemala  s.a.,juan luis alvarado romero,chapultepec,0778
+0190,cooperativa el gorrion r.l,cooperativa el gorrion r.l,las nubes,0898
+0191,cafebras comercio de cafés do brasil sa,cafebras,pantano,0739
+0192,ceca s.a.,ceca  s.a.,gamboa,0189
+0193,asefa dukamo coffee plantetion,asefa dukamo keroma,asefa dukamo coffee plantation,0190
+0194,selian coffee estate,selian coffee estate,selian coffee estate,0840
+0195,olam international ltd,olam agro colombia,NA,0470
+0196,volcafe specialty coffee,chris finch,NA,0193
+0197,taylor winch (coffee) ltd,itochu corporation,NA,0194
+0198,café do paraíso,owen carver,café do paraíso,0642
+0199,unex guatemala  s.a.,juan luis alvarado romero,la union monte verde,0966
+0200,unicafe,juan luis alvarado romero,el limon,0198
+0201,great lakes coffee,afca,NA,0199
+0202,pt. royal pacific indah international,pt.royal pacific indah international,mus  eman,0200
+0203,carcafe ltda,carcafe ltda ci,NA,0260
+0204,taiwan coffee laboratory,lin  che-hao krude 林哲豪,chang yu liang 張玉良,
+0205,lusso coffee lab,lusso lab,aprocafi,0204
+0206,NA,andres martinez leon,la lagunilla,0206
+0207,the specialty coffee appraisers institute of asia,steven kil,NA,0207
+0208,thrive farmers,amanda powers,NA,0208
+0209,kyagalanyi coffee ltd,kyagalanyi coffee ltd,kerchanshe,0209
+0210,cigrah s.a de c.v,bismarck castro,las cuchillas,1002
+0211,exportcafe,juan luis alvarado romero,finca los cerros y anexos,0806
+0212,olam international ltd,olam agro colombia,NA,0234
+0213,lusso coffee lab,lusso lab,NA,0218
+0214,ipanema coffees,ipanema coffees,fazenda rio verde,0703
+0215,ibero kenya limited,ibero kenya limited,NA,0221
+0216,mae fah luang foundation,doi tung development project,doi tung development project,0515
+0217,taylor winch (coffee) ltd,taylor winch (coffee) ltd.,-,0223
+0218,NA,doi tung development project,doi tung development project,0224
+0219,ipanema coffees,ipanema coffees,fazenda capoeirnha,0225
+0220,cafes tomari sa de cv,cafes tomari sa de cv,cafetal,0726
+0221,intercof 1978 group company limited,sarawut premjit,saveg coffee farm,0227
+0222,ipanema coffees,ipanema coffees,capoeirinha,0228
+0223,taiwan coffee laboratory,lin  che-hao krude 林哲豪,tsoustructive garden 鄒築園,
+0224,carcafe ltda,carcafe ltda ci,NA,0262
+0225,racafe & cia s.c.a,almacafe,NA,0231
+0226,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,very famous intl.名門義理國際股份有限公司,
+0227,federacion nacional de cafeteros,federacion nacional de cafeteros,NA,0874
+0228,federacion nacional de cafeteros,federacion nacional de cafeteros,NA,0234
+0229,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,神谷山莊園,
+0230,agro xicotepec 2000,oscar ortega carballo,finca cuetzalingo,0905
+0231,ecomtrading,alfredo bojalil,finca sant rosa,0547
+0232,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,comunidad la yerbabuena,0239
+0233,ceca s.a.,ceca  s.a.,gamboa,0815
+0234,siembras vision  s.a.,juan luis alvarado romero,finca medina,0243
+0235,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,優遊吧斯股份有限公司yuyupas international corp.,
+0236,ipanema coffees,ipanema coffees,rio verde,0464
+0237,taiwan coffee laboratory,lin  che-hao krude 林哲豪,鄉舍咖啡 hometown coffee,
+0238,yasmin coffee plantation plc,yasmin cofffee plantation plc,NA,0247
+0239,ipanema coffees,ipanema coffees,rio verde,0730
+0240,coricafe s.a.,eric thormaehlen,various,0530
+0241,sultana del cafe inc.,garet alban,finca el trueno,0252
+0242,unex guatemala  s.a.,juan luis alvarado romero,finca el morito,0966
+0243,NA,filemon mendoza campos,predio cañada del encino,0255
+0244,ecomtrading,alfredo bojalil,finca santa teresa,0256
+0245,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,fazenda do sertao,0257
+0246,NA,doi chaang coffee company,doi chaang coffee original co. ltd,0705
+0247,NA,ethiopia commodity exchange,phone number | 0911-51-08-01  email | at,0080
+0248,taylor winch (coffee) ltd,kennedy macharia,NA,0259
+0249,taiwan coffee laboratory,lin  che-hao krude 林哲豪,崁頭山咖啡館 (kan tou mountain coffee),
+0250,racafe & cia s.c.a,racafe & cia s.c.a,NA,0262
+0251,yunnan coffee exchange,yunnan coffee exchange,pu’er specialty coffee cupping center,0062
+0252,nile highlands arabica coffee farmers,nile highland arabica coffee farmers,erussi farmers group,0264
+0253,hacienda alto grande  llc.,german negron,hacienda caracolillo,0770
+0254,kona pacific farmers cooperative,kona pacific farmers cooperative,NA,0602
+0255,NA,saul m. hernandez ramirez,naranjal,0271
+0256,the coffee source inc.,the coffee source inc.,several farms,0272
+0257,NA,carcafe ltda ci,NA,0725
+0258,NA,exportadora de cafe condor s.a,NA,0661
+0259,NA,kona pacific farmers cooperative,NA,0940
+0260,taylor winch (coffee) ltd,kennedy macharia,NA,0276
+0261,comercial internacional exportadora  s.a.,comercial internacional exportadora  s.a.,santa matilde,0277
+0262,taiwan coffee laboratory,lin  che-hao krude 林哲豪,tsoustructive garden 鄒築園,0278
+0263,ceca s.a.,ceca  s.a.,NA,0279
+0264,doi tung development project,doi tung development project,NA,0280
+0265,olam specialty coffee,rob stephen,NA,0490
+0266,exportcafe,juan luis alvarado romero,finca las cuevitas,0823
+0267,exportadora de cafe condor s.a,exportadora de cafe condor s.a,various,0283
+0268,the coffee source inc.,the coffee source inc.,finca quequesquez,0853
+0269,NA,juan luis ortega carballo,finca apoxtla,0905
+0270,scai,ekai international company ltd.,ijen highland  east java,0290
+0271,siembras vision  s.a.,juan luis alvarado romero,finca medina,0291
+0272,NA,kona pacific farmers cooperative,NA,0824
+0273,exportcafe,juan luis alvarado romero,finca santa clara,0293
+0274,yunnan coffee exchange,yunnan coffee exchange,menglian mang pan professional cooperative,0062
+0275,exportadora café california,andreas kussmaul,exportadora café california,0295
+0276,essence coffee,essencecoffee,lomi tasha,0296
+0277,bulamburi coffee farmers association,bulamburi coffee farmers association,bulamburi coffee farmers,0297
+0278,ecom cca sa,compañia colombiana agroindustrial s.a,NA,0313
+0279,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,dragon coffee 龍咖啡,
+0280,c.i.racafe & cia s.c.a,racafe & cia s.c.a,NA,0571
+0281,ecomtrading,alfredo bojalil,ojo de agua,0990
+0282,nucoffee,nucoffee,fazenda jericó,0558
+0283,carcafe ltda,carcafe ltda ci,NA,0305
+0284,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,南投縣魚池鄉水社村中正路63-1號,0306
+0285,ceca s.a.,ceca  s.a.,NA,0815
+0286,carcafe ltda,carcafe ltda ci,NA,0307
+0287,unex guatemala  s.a.,juan luis alvarado romero,la esperanza,0882
+0288,tawoca,damari absalome,ano family,0309
+0289,pt. olam indonesia,aulia arif syahri,yusrin,0310
+0290,debesa agro industry plc,debesa agro industry plc,NA,0247
+0291,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0490
+0292,the coffee source inc.,the coffee source inc.,several,0312
+0293,cigrah,NA,los hicaques,0672
+0294,finca los barreales,manuel herrera juarez,finca los barreales 1112lban,0317
+0295,estrategias constructivas corzu s.a. de c.v.,miguel cortes moreno,NA,
+0296,NA,gabriel bernardo rivas ross,la corralera,0319
+0297,kanematsu corporation / rnp santo tomas pachuj,juan luis alvarado romero,santo tomas pachuj,0320
+0298,coffee resources inc.,felipe isaza,conquista / morito,0987
+0299,NA,specialty coffee association of indonesia,pancoer angkrek,0324
+0300,carcafe ltda,carcafe ltda ci,NA,0405
+0301,ceca s.a.,ceca  s.a.,gamboa,0487
+0302,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,日月潭文武莊園,0328
+0303,bugisu cooperative union,bugisu cooperative union,bulago & buginyanya,0329
+0304,matsuzawa coffee,松澤宏樹 koju matsuzawa,matsuzawa coffee,0330
+0305,consejo salvadoreño del café,consejo salvadoreño del café,la joya,0385
+0306,bourbon specialty coffees,bourbon specialty coffees,cachoeira da grama farm,0332
+0307,ngila estate ltd,ngila estate ltd,ngila estate,0333
+0308,ecom cca sa,compañia colombiana agroindustrial s.a,NA,0490
+0309,unex guatemala  s.a.,juan luis alvarado romero,el papaturro,0966
+0310,siembras vision  s.a.,juan luis alvarado romero,finca medina,0367
+0311,unex guatemala  s.a.,juan luis alvarado romero,el morito,0966
+0312,exportadora de cafe condor s.a,exportadora de cafe condor s.a,various,0338
+0313,NA,federacion nacional de cafeteros,NA,0339
+0314,NA,doi tung development project,doi tung development project,0895
+0315,NA,grounds for health admin,NA,0341
+0316,exportadora de cafe condor s.a,exportadora de cafe condor s.a,various,0405
+0317,racafe & cia s.c.a,racafe & cia s.c.a,NA,0779
+0318,ipanema coffees,ipanema coffees,rio verde,0345
+0319,exportadora café california,andreas kussmaul,ecc,0346
+0320,mondul coffee estate,afca,mondul coffee estate,0840
+0321,café andrade  s.a. de c.v.,j.andrade,el pino,0347
+0322,coricafe s.a.,eric thormaehlen,several,0530
+0323,sustainable harvest,dane loraas,NA,0351
+0324,itiah coffee llc.,itiah coffee llc,marre blanche,0352
+0325,carcafe ltda,carcafe ltda ci,NA,0428
+0326,the specialty coffee appraisers institute of asia,steven kil,sogestal kayanza,0354
+0327,cafe de don balbino s.c. de r.l. de c.v.,cafe de don balbino s.c. de r.l. de c.v.,corta pico,0358
+0328,panamerican coffee trading,rodrigo soto,coopellanobonito,0359
+0329,mercon guatemala s.a.,juan luis alvarado romero,linda vista,0597
+0330,kawacom uganda ltd,kawacom uganda ltd,kawacom uganda ltd sipi farmers group,0361
+0331,bourbon specialty coffees,bourbon specialty coffees,NA,0526
+0332,productos y servicios chilindron s.a. de c.v.,productos y servicios chilindron s.a. de c.v.,los charcos,
+0333,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,以勒咖啡,
+0334,ecom cca sa,compañia colombiana agroindustrial s.a,NA,0366
+0335,finca triunfo verde  s.c.,calixto guillen vazquez,various,0369
+0336,finca teocelo,ernesto rodriguez luna,finca teocelo,0878
+0337,NA,modesto landeros flores,mata larga,
+0338,nucoffee,nucoffee,água limpa,0373
+0339,c.i.racafe & cia s.c.a,racafe & cia s.c.a,NA,0375
+0340,NA,exportadora de cafe condor s.a,NA,0574
+0341,NA,exportadora de cafe condor s.a,NA,0377
+0342,unex guatemala  s.a.,juan luis alvarado romero,beneficio el torreon,0788
+0343,volcafe/taylorwinch tanzania ltd,taylor winch (t) ltd,mamsera,0380
+0344,prodlesur sa,andrea bernal,NA,0381
+0345,sunvirtue co.  ltd.,sunvirtue co.  ltd.,apollo estate,0855
+0346,cadexsa,cadexsa,bethel,0383
+0347,yunnan coffee exchange,yunnan coffee exchange,chen lin,0062
+0348,yunnan coffee exchange,yunnan coffee exchange,yunnan success trade co.ltd,0384
+0349,consejo salvadoreño del café,consejo salvadoreño del café,agua caliente,0385
+0350,siembras vision  s.a.,juan luis alvarado romero,finca medina,0814
+0351,unex guatemala  s.a.,juan luis alvarado romero,la esperanza  margarita nuyes,0780
+0352,taylor winch (coffee) ltd,taylor winch (coffee) ltd.,NA,0388
+0353,tutunze kahawa ltd,tutunze kahawa ltd,myanganyanga,0687
+0354,kabum trading company,kabum trading company,kaptanya,0390
+0355,green mountain coffee,cafe politico,unkown,0391
+0356,olam honduras  s.a.,mayra yessenia torres,el cerron,0392
+0357,agricola nueva granada  s.a.,juan luis alvarado romero,nueva granada,0393
+0358,kona pacific farmers cooperative,eileen koyanagi,NA,0602
+0359,taylor winch (t) ltd,balam hinyula,NA,0624
+0360,cesmach s.c.,nestor mendez gomez,santa cecilia,0396
+0361,NA,saul m. hernandez ramirez,tlapacoya,0397
+0362,NA,saul m. hernandez ramirez,la loma,0398
+0363,NA,fernando mendoza aparicio,el mirador,0399
+0364,ecomtrading,alfredo bojalil,finca nueva linda,0547
+0365,nucoffee,nucoffee,campo das flores,0762
+0366,nucoffee,nucoffee,são francisco da serra,0402
+0367,nucoffee,nucoffee,fazenda do lobo,0538
+0368,NA,nucoffee,olhos d'agua,0163
+0369,NA,ethiopia commodity exchange,tega and tula special coffee farm,0404
+0370,ipanema coffees,ipanema coffees,capoeirinha,0464
+0371,taiwan coffee laboratory,lin  che-hao krude 林哲豪,kan tou mountain coffee 崁頭山咖啡館,
+0372,bourbon specialty coffees,bourbon specialty coffees,NA,
+0373,coricafe s.a.,eric thormaehlen,various,0759
+0374,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,alishan zou zhu yuan 阿里山鄒築園,
+0375,finca las nubes,maria luisa del carmen rojas narvaez,santa maria,0413
+0376,cqi,kona pacific farmers cooperative,NA,0950
+0377,NA,racafe & cia s.c.a,NA,0415
+0378,NA,specialty coffee association of indonesia,lintong nihuta,0416
+0379,NA,chris finch,NA,0417
+0380,ipanema coffees,ipanema coffees,fazenda capoeirnha,0228
+0381,ucfa,ucfa,isule farmers group,0418
+0382,ucfa,ucfa,ibanda farmers group,0418
+0383,sunvirtue co.  ltd.,sunvirtue co.  ltd.,apollo estate,0419
+0384,mercon guatemala s.a.,juan luis alvarado romero,el chile,0915
+0385,agricola nueva granada  s.a.,juan luis alvarado romero,nueva granada,0421
+0386,atlantica eportacao e importcao ltda,irene alves santos,fazenda santo antonio,0423
+0387,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,雅慕伊,
+0388,star cafe ltd,star cafe ltd,kabeywa county,0060
+0389,siembras vision  s.a.,juan luis alvarado romero,grupo medina (pequeños productores),0472
+0390,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,sertao farm,0426
+0391,NA,rosa aurora falcon fernandez,vegas,0985
+0392,finca la estancia,santiago solis ayerdi,finca la estancia,0498
+0393,ecomtrading,alfredo bojalil,las lomas,0432
+0394,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0433
+0395,nuevos mercados  s.a.,juan luis alvarado romero,la igualdad,0435
+0396,c.i.racafe & cia s.c.a,racafe & cia s.c.a,NA,0436
+0397,NA,racafe & cia s.c.a,NA,0725
+0398,NA,grounds for health admin,santa rosa,0440
+0399,NA,doi tung development project,doi tung development project,0441
+0400,soc. coop. cuzcachapa de r.l.,consejo salvadoreño del café,santa josefita,0442
+0401,racafe & cia s.c.a,racafe & cia s.c.a,NA,0443
+0402,belayneh kindie,cqi taiwan icp cqi台灣合作夥伴,-,0445
+0403,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,佐佑品咖啡莊園,
+0404,hineleban foundation,renee a. perrine,kalugmanan agri development corp.,0447
+0405,ephemera traders,zarah zamora perez,several  bukidnon  mindanao  philippines,0448
+0406,productos y servicios chilindron s.a. de c.v.,productos y servicios chilindron s.a. de c.v.,pinzoneno,
+0407,tony's coffee and teas  inc.,andrew bowman,fiech (mixed producers),0449
+0408,expocaccer,expocaccer coop dos cafeic do cerrado ltda,fazenda pantano,0450
+0409,nyapea coffee farmers association,nyapea coffee farmers association,nyapea coffee farmers,0451
+0410,siembras vision  s.a.,juan luis alvarado romero,finca medina,0472
+0411,thrive farmers,rob tuttle,NA,0532
+0412,exportcafe,juan luis alvarado romero,finca los cerros y anexos,0832
+0413,olam international ltd,olam agro colombia,NA,0457
+0414,NA,maria guadalupe gomez anzo,el regalito,0458
+0415,royal base corporation,royal base corporation,apollo co.  ltd.,0630
+0416,union de ejidos san fernando de ri,veronica lopez castillejos,el jabali,0460
+0417,keremara limited,jungle estate,jungle estate,0462
+0418,consejo salvadoreño del café,consejo salvadoreño del café,el barbaro,0503
+0419,bufcoffee ltd,samuel muhirwa,gicumbi,0466
+0420,sunvirtue co.  ltd.,sunvirtue co.  ltd.,apollo estate,0467
+0421,unex guatemala  s.a.,juan luis alvarado romero,el papaturro,0780
+0422,cafebras comercio de cafés do brasil sa,cafebras,santa fé 2,0739
+0423,essence coffee,essencecoffee,NA,0470
+0424,olam specialty coffee,joshua marsceau,kampung keling  jumaraj  gurusinga  gongsol,0471
+0425,coffeebythebag.com   inc.,coffeebythebag.com   inc,NA,0473
+0426,tcb,edwin agasso,burka coffee estate,0475
+0427,beneficio custepec s.a. de c.v.,armando luis pohlenz martinez,NA,0901
+0428,ecomtrading,alfredo bojalil,santa rosa,0876
+0429,NA,the coffee source inc.,several farms,0104
+0430,inmobiliaria e inversiones dos mil s.a.,juan luis alvarado romero,providencia,0478
+0431,mercon guatemala s.a.,juan luis alvarado romero,linda vista,0825
+0432,unex guatemala  s.a.,juan luis alvarado romero,las merceditas,0683
+0433,unex guatemala  s.a.,juan luis alvarado romero,las delicias,0912
+0434,unex guatemala  s.a.,juan luis alvarado romero,la esmeralda,0788
+0435,pt. shriya artha nusantara,sanjava coffee,various,0483
+0436,unex guatemala  s.a.,juan luis alvarado romero,la esmeralda,0484
+0437,taiwan coffee laboratory,lin  che-hao krude 林哲豪,大鋤花間 (hoe vs. flower coffee farm),
+0438,soc. coop. de caf. de ciudad barrios de r.l.,consejo salvadoreño del café,la montaña,0486
+0439,cigrah s.a de c.v,bismarck castro,los hicaques,1002
+0440,yunnan coffee exchange,yunnan coffee exchange,man ganna estate,0062
+0441,yunnan coffee exchange,yunnan coffee exchange,pu'er lingdu yunlin coffee co.ltd,0489
+0442,mzuzu coffee planters coop union,afca,msese,0637
+0443,coffee export,coffee export,NA,0493
+0444,the coffee source inc.,the coffee source inc.,several,0496
+0445,cesmach s.c.,nestor mendez gomez,san lorenzo,0396
+0446,NA,sergio de la vequia bernardi,tlamatoca,0931
+0447,cafe shunuc,romulo bello flores,NA,0498
+0448,ecom cca s.a.,NA,supply chain ecom cca s.a.,0499
+0449,hacienda la esmeralda,rachel peterson,hacienda la esmeralda,0501
+0450,ipanema coffees,ipanema coffees,capoeirinha,0225
+0451,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,savan coffee bean,0502
+0452,finca kassandra,josé luis rojas yeo,gabriel bernard rivas ross,0504
+0453,bourbon specialty coffees,bourbon specialty coffees,santa maria,0944
+0454,nitin coffee estate,nitin coffee estate,nitin,0507
+0455,taylor winch (t) ltd,taylor winch (t) ltd,ampcg,0757
+0456,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,伊娜咖啡莊園,
+0457,productos y servicios chilindron s.a. de c.v.,productos y servicios chilindron s.a. de c.v.,los llanitos,0557
+0458,afca,kawacom uganda ltd,bugisu shamba,0510
+0459,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,zhuo wu shan coffee 卓武山咖啡農場,
+0460,coffeas co.  ltd,松澤宏樹 koju matsuzawa,m10,0511
+0461,atlantic specialty coffee,adam kline,NA,0606
+0462,finca medina,juan luis alvarado romero,finca medina,0514
+0463,cafe montegrande,montegrande,finca monte grande,0516
+0464,grupo cafetalero los brujos,grupo cafetalero los brujos spr de rl,finca castillos,0517
+0465,NA,george a. fernandez,la canada,0518
+0466,NA,young kim,kassandra,0519
+0467,NA,exportadora de cafe condor s.a,NA,0804
+0468,NA,racafe & cia s.c.a,NA,0521
+0469,taiwan coffee laboratory,lin  che-hao krude 林哲豪,林園咖啡 lin yuan coffee,
+0470,volcafe ltda.,gabriel barbara,NA,0524
+0471,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,台中市新社區崑山里,
+0472,pt. sari makmur tunggal mandiri,andry simarmata,small holders farmer,0527
+0473,coffeas co.  ltd,松澤宏樹 koju matsuzawa,NA,0528
+0474,tembo coffee company ltd,tembo coffee company ltd,lubanda amcos,0529
+0475,kawacom uganda ltd,kawacom uganda ltd,mt.elgon sipi falls cheema,0297
+0476,sustainable harvest,dane loraas,NA,0584
+0477,s&d coffee and tea,brent hall,NA,0532
+0478,exportadora de cafe condor s.a,exportadora de cafe condor s.a,various,0586
+0479,NA,guillermo rojas saldana,jamaica,0802
+0480,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,la timbuchera; el ocotito y la hortaliza,0536
+0481,NA,nucoffee,fazenda chamusca,0538
+0482,pt. shriya artha nusantara,sanjava coffee,various,0539
+0483,cigrah,elsy reyes,las cuchillas,1002
+0484,shah plantations,shah plantations,shah plantation,0507
+0485,amkeni gourmet coffee group,amkeni gourmet coffee group,amkeni,0541
+0486,lusso coffee lab,lusso lab,finca san el retiro,0542
+0487,unex guatemala  s.a.,juan luis alvarado romero,la esperanza y anexos,0966
+0488,NA,saul m. hernandez ramirez,la pagua,0545
+0489,cafe de la sierra norte de puebla,enrique mitre lopez,caltuchoco,0546
+0490,finca santa cruz,enrique eduardo lopez aguilar,santa cruz - pante don manuel,0547
+0491,waelti schoenfeld exportadores de cafe  s.a.,juan luis alvarado romero,various,0853
+0492,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,fazenda do sertao,0549
+0493,NA,adam kline,NA,0550
+0494,carrillo cooperativa,brian beck,carrillo cooperativa,0551
+0495,unex guatemala  s.a.,juan luis alvarado romero,las merceditas,0553
+0496,asociación nacional del café - anacafe -,juan luis alvarado romero,providencia,0825
+0497,yunnan coffee exchange,yunnan coffee exchange,menglian gao sanlin coffee factory,0062
+0498,tawoca,gladness obed pallangyo,nguruma,0556
+0499,nucoffee,nucoffee,fazenda serra negra,0558
+0500,sustainable harvest,dane loraas,NA,0559
+0501,NA,manuel herrera juarez,finca los barreales,0561
+0502,s&d coffee and tea,brent hall,NA,0655
+0503,cesmach s.c.,nestor mendez gomez,cipresal,0396
+0504,carajillo café sa de cv,jesus salazar velasco,pante san pedro,0176
+0505,NA,el equimite  cafetal biodinámico,cafetal el equimite  rancho agroecológico,0985
+0506,finca los barreales,manuel herrera juarez,los barreales 1112lbcat_s110312,0565
+0507,NA,dario cesar galeana sanchez,corral del diablo lote 1,0566
+0508,NA,jose daniel cobilt castro,cañada fria,0567
+0509,NA,alvaro quiros perez,finca nextlalpa,0568
+0510,NA,olivia hernandez virves,santa rosa,0569
+0511,finca las nieves,finca las nieves,fln mirador,0570
+0512,carcafe ltda,carcafe ltda ci,NA,0571
+0513,nucoffee,nucoffee,santa mariana,0572
+0514,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0736
+0515,olam,pedro santos e silva,fazenda são pedro,0575
+0516,volcafe ltda.,gabriel barbara,NA,0576
+0517,yunnan coffee exchange,yunnan coffee exchange,yun lan coffee co. ltd,0579
+0518,ipanema coffees,ipanema coffees,rio verde,0580
+0519,exportcafe,juan luis alvarado romero,finca loma linda y anexo,0581
+0520,mzuzu coffee planters coop union,afca,utchisi mountain,0637
+0521,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,guo cun nong yuan 國村農園,
+0522,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,yu jin gui 玉金櫃咖啡,
+0523,ecomtrading,alfredo bojalil,santa teresa,0926
+0524,f. gaviña & sons  inc.,michael gavina,NA,0588
+0525,finca el morito,juan luis alvarado romero,finca el morito,0589
+0526,NA,saul m. hernandez ramirez,tepemalacax,0590
+0527,finca los barreales,manuel herrera juarez,finca los barreales 1112lbga7250412,0876
+0528,nucoffee,nucoffee,sitío santa luzia,0593
+0529,eczcafe fino s.a. de c.v.,maria luisa del carmen rojas narvaez,cafetal santa maria,0594
+0530,nucoffee,nucoffee,café citrus,0762
+0531,klem organics coffee,klem organics,fazendas klem ltda,0596
+0532,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,眉泉莊園,0306
+0533,consejo salvadoreño del café,consejo salvadoreño del café,zapato de mico,0598
+0534,cadexsa,cadexsa,bethel,0857
+0535,mzuzu coffee planters coop union,afca,kachere,0637
+0536,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,guo xing ka fei wang 國姓咖啡王咖啡莊園,0600
+0537,NA,jesus carlos cardenas valdivia,finca huehuetecpan,0601
+0538,NA,saul m. hernandez ramirez,omicuatla,0603
+0539,siembras vision  s.a. / ing. jorge bolaños,juan luis alvarado romero,finca medina,0889
+0540,finca los barreales,manuel herrera juarez,los barreales 1112lbgr7230412,0876
+0541,NA,guillermo rojas saldana,jamaica,0605
+0542,NA,sergio de la vequia bernardi,chilcuatla,0931
+0543,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,comunidad de canoas,0607
+0544,nucoffee,nucoffee,caxambu,0608
+0545,NA,racafe & cia s.c.a,NA,0609
+0546,cigrah s.a de c.v,bismarck castro,las cuchillas,0610
+0547,beneficiadora norteña de cafe  s. a. (bencafe),bencafe  s. a.,el brigadum - la coronela,0686
+0548,tawoca,langiro farm group,langiro farm group,0612
+0549,ibero tanzania,ibero coffee trading co (t) ltd,NA,0613
+0550,essence coffee,essencecoffee,blue lake,0614
+0551,bourbon specialty coffees,bourbon specialty coffees,NA,0615
+0552,tembo coffee company ltd,tembo coffee company ltd,ilomba 2,0616
+0553,lusso coffee lab,lusso lab,NA,0617
+0554,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,song yue coffee 嵩岳咖啡,
+0555,red on tree co.  ltd.,lin  che-hao krude 林哲豪,kan tou mountain coffee 崁頭山咖啡館,
+0556,NA,saul m. hernandez ramirez,el nanchi,0545
+0557,the coffee source inc.,the coffee source inc.,NA,0853
+0558,NA,salvador caro carrion,las truchas,0621
+0559,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,la calera  barranca de la leona  el nogal,0536
+0560,pt. shriya artha nusantara,sanjava coffee,various,0622
+0561,cafetalera internacional cafinter  s.a.,cafetalera internacional cafinter  s.a.,el patalillo,0754
+0562,volcafe/taylorwinch tanzania ltd,balam hinyula,ampcg,0624
+0563,ngorogoro convenant estate,ngorogoro convenant estate,ngorogoro convenant estate,0625
+0564,cafe politico,cafe politico,NA,0992
+0565,ceca s.a.,ceca  s.a.,cafetalera aquiares,0627
+0566,indigenas de la sierra madre de motozintla san isidro labrador s. de s.s.,julio perez hernandez,NA,0938
+0567,NA,rosa aurora falcon fernandez,bola de oro,0985
+0568,NA,sergio de la vequia bernardi,tomatlancillo,0931
+0569,cigrah s.a de c.v,bismarck castro,las moras,
+0570,tawoca,didas,family farm,0634
+0571,kettles coffee roasters,minwook ku,club green,0635
+0572,finca estate,finca estate,finca estate,0636
+0573,mzuzu coffee planters coop union,afca,chikali,0637
+0574,red on tree co.  ltd.,lin  che-hao krude 林哲豪,you siang coffee farmtainan  taiwan 台灣台南優香咖啡,
+0575,doi tung development project,doi tung development project,NA,0885
+0576,beneficio santa rosa s.a.,beneficio santa rosa,bsr,0640
+0577,red on tree co.  ltd.,lin  che-hao krude 林哲豪,gao chun fang 高醇坊,
+0578,NA,jorge octavio escamilla prado,la ceiba,0643
+0579,nucoffee,nucoffee,são josé da lagoa,0645
+0580,elfasa  s.a.,juan luis alvarado romero,el faro,0646
+0581,nucoffee,nucoffee,santa mariana/são vicente,0762
+0582,unex guatemala  s.a.,juan luis alvarado romero,la esperanza,0788
+0583,volcafe ltda.,gabriel barbara,santa bárbara,0649
+0584,consejo salvadoreño del café,consejo salvadoreño del café,la esperanza,0650
+0585,asociación nacional del café - anacafe -,juan luis alvarado romero,las cebollas y anexos,0915
+0586,mcomafa co. ltd,mcomafa co ltd,mcomafa farm no1155gr,0652
+0587,volcafe specialty coffee,chris finch,NA,0865
+0588,lusso coffee lab,lusso lab,mubuyu munali,0654
+0589,thrive farmers,rob tuttle,NA,0655
+0590,NA,saul m. hernandez ramirez,platanal,0657
+0591,NA,saul m. hernandez ramirez,texpanco,0658
+0592,NA,juan hermilio sampieri carcamo,la laja,0659
+0593,nucoffee,nucoffee,sitío corrego da olaria/são caetano,0593
+0594,volcafe ltda.,gabriel barbara,helena,0663
+0595,pt. olam indonesia,aulia arif syahri,mudar,0664
+0596,unex guatemala  s.a.,juan luis alvarado romero,chapultepec,0665
+0597,NA,u mg mg,wat-ka-bu,0666
+0598,agroindustrias unidas de mexico sa de cv,viridiana,rancho bonito,0667
+0599,cadexsa,cadexsa,cerro bueno,0857
+0600,taiwan coffee laboratory,lin  che-hao krude 林哲豪,gao chun fang 高醇坊,
+0601,essence coffee,essencecoffee,dozen small farmer,0670
+0602,mzuzu coffee planters coop union,afca,kakoma,0671
+0603,cigrah,NA,gran manzana y el aguacate,0672
+0604,globus coffee,kurt kappeli,various,0673
+0605,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,sertao farm,0723
+0606,NA,christina dusing,finca muxbal,0876
+0607,NA,jorge francisco martinez hachity,el deseo,0985
+0608,NA,nucoffee,cianorte,0676
+0609,sunvirtue co.  ltd.,sunvirtue co.  ltd.,apollo estate,0678
+0610,cafe politico,cafe politico,NA,0679
+0611,NA,saul m. hernandez ramirez,los magueyes,0680
+0612,NA,sergio landa alarcon,finca tepictla,0681
+0613,NA,diego manuel woolrich ramirez,arroyo triste  arroyo triste  san jose vista hermosa,0802
+0614,finca las nubes,enrique eduardo lopez aguilar,santa cruz - pante doña graciela,0547
+0615,NA,racafe & cia s.c.a,NA,0682
+0616,unex guatemala  s.a.,juan luis alvarado romero,la esmeralda,0912
+0617,volcafe/taylorwinch tanzania ltd,taylor winch (coffee) ltd.,ngima,0685
+0618,comercial internacional exportadora  s.a.,comercial internacional exportadora  s.a.,santa matilde,0686
+0619,dae ltd company,dae ltd company,multiple,0687
+0620,tembo coffee company ltd,tembo coffee company ltd,ilomba 1,0688
+0621,volcafe specialty coffee,chris finch,NA,0689
+0622,ceca s.a.,ceca  s.a.,gamboa,0690
+0623,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,mu he zi coffee 木盒子咖啡園,
+0624,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,guo xin ka fei 國昕咖啡,0600
+0625,union ramal santa cruz spr de ri,fredy gordillo reyes,union ramal santa cruz,0926
+0626,productora agricola y ganadera finca la suiza  s.p.r. de r.l. de c.v.,virginia gordillo gordillo,finca cafetalera la suiza,0890
+0627,NA,jose luis munoz guerrero,NA,0693
+0628,NA,christina dusing,ucipa santa catarina,0876
+0629,ecomtrading,alfredo bojalil,finca nueva linda,0178
+0630,estrategias constructivas corzu  s.a. de c.v.,miguel cortes moreno,sacún palma,
+0631,molinos de honduras,mdh,various,0697
+0632,unex guatemala  s.a.,juan luis alvarado romero,la esperanza,0698
+0633,taiwan coffee laboratory,lin  che-hao krude 林哲豪,baishengcun coffee 百勝村咖啡莊園,0699
+0634,ceca s.a.,ceca  s.a.,cafetalera aquiares,0700
+0635,acacia hills ltd,acacia hills ltd,acacia hills,0701
+0636,mzuzu coffee planters coop union,afca,kavuzi,0637
+0637,red on tree co.  ltd.,lin  che-hao krude 林哲豪,jacob's estate 雅谷咖啡,0911
+0638,ipanema coffees,ipanema coffees,rio verde,0703
+0639,finca santa cruz,enrique eduardo lopez aguilar,las nubes - pante don jaime,0704
+0640,finca santa cruz,enrique eduardo lopez aguilar,santa cruz - pante don jaime,0547
+0641,NA,benjamin schmerler,NA,0706
+0642,exportadora atlantic s.a,exportadora atlantic  s.a.,finca las marías,0708
+0643,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,谷泉咖啡莊園,
+0644,aung nay lin htun co.  ltd,genius coffee,mixed,0711
+0645,santa laura exportadora de cafe s.l.e.c. s.a.,santa laura exportadora de cafe s.l.e.c. s.a.,several,0960
+0646,mzuzu coffee planters coop union,afca,chinongo,0637
+0647,outspan guatemala s.a.,juan luis alvarado romero,various,0967
+0648,red on tree co.  ltd.,lin  che-hao krude 林哲豪,good mood coffee 馨晴咖啡,0911
+0649,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,pereira estate coffee,0715
+0650,haiti coffee,myriam kaplan-pasternak,mixed,0716
+0651,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,xu yuan zhang 徐源漳,
+0652,ecomtrading,alfredo bojalil,nueva linda,0926
+0653,ecomtrading,alfredo bojalil,productor independiente guadalupe victoria,0718
+0654,NA,jose luis munoz guerrero,santa maria temaxcalapa,0719
+0655,NA,jose luis munoz guerrero,canoa manzanillo,0720
+0656,NA,tomas edelmann blass,hamburgo 7 arroyos,0721
+0657,NA,maria de la paz aguilar guillen,el romance azul,0498
+0658,scai,specialty coffee association of indonesia,ijen highland  east java,0722
+0659,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,sertao,0723
+0660,unex guatemala  s.a.,juan luis alvarado romero,chiquimulja / alpha cafe / senfro,0987
+0661,agricola nueva granada  s.a.,juan luis alvarado romero,nueva granada,0727
+0662,cafebras comercio de cafés do brasil sa,cafebras,fazenda rio brilhante,0739
+0663,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,山彎有機咖啡農場,
+0664,mzuzu coffee planters coop union,afca,chimpumba,0637
+0665,cafcom,juan luis alvarado romero,santo tomas pachuj,0731
+0666,globus coffee,kurt kappeli,various,0732
+0667,sustainable harvest,dane loraas,NA,0733
+0668,NA,saul m. hernandez ramirez,palantla,0271
+0669,grupo cafetalero los brujos,grupo cafetalero los brujos spr de rl,los brujos,0902
+0670,NA,kona pacific farmers cooperative,kona pacific farmers cooperative,0737
+0671,ac la laja sa de cv,angel oscar medina rodriguez,NA,0504
+0672,cafebras comercio de cafés do brasil sa,cafebras,fazenda sacramento,0739
+0673,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,sertao farm,0741
+0674,s3v international importing,victoria,bacofa,0742
+0675,mzuzu coffee planters coop union,afca,usingini farm,0637
+0676,olam honduras  s.a.,mayra yessenia torres,el cerron,0743
+0677,NA,hector gabriel barreda nader,cruz verde,0931
+0678,klem organics coffee,klem organics,fazendas klem ltda,0744
+0679,taiwan coffee laboratory,lin  che-hao krude 林哲豪,jing jing café 晶晶坊青山咖啡教室,
+0680,comercial internacional exportadora  s.a.,comercial internacional exportadora  s.a.,cafetales santa matilde,0746
+0681,shangrilla estate ltd,shangrilla estate ltd,shangrilla estate,0748
+0682,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,jia jia coffee 佳佳咖啡莊,0600
+0683,siembras vision  s.a.,juan luis alvarado romero,finca medina,0749
+0684,ecomtrading,alfredo bojalil,finca chanjul,0750
+0685,exportadora atlantic s.a,exportadora atlantic  s.a.,las promesas de san blass,0751
+0686,mviwambi coffee farm,immaculata john,mviwambi coffee farmers,0752
+0687,exportadora café california,andreas kussmaul,exportadora café california,0753
+0688,cigrah,NA,los hicaques,0755
+0689,s3v international importing,victoria,irisan  baguio,0756
+0690,r.w.j wallace ltd,afca,makoka valley estate,0758
+0691,bourbon specialty coffees,bourbon specialty coffees,juliana,0760
+0692,nucoffee,nucoffee,fazenda são sebastião,0762
+0693,kerchanshe trading plc,kerchanshe,NA,0764
+0694,garca armazens,gregorio sebba,fazenda são josé mirante,0765
+0695,comercial internacional exportadora  s.a.,rolando lacayo,cafetales santa matilde,0807
+0696,conscious bean coffee,wali ali,NA,0767
+0697,taylor winch (t) ltd,taylor winch (t) ltd,mwalyego amcos,0768
+0698,the coffee source inc.,the coffee source inc.,santa laura,0769
+0699,cafetera el grande s.a. de c.v.,obed rendon ponce,san fernando  chiapas,0771
+0700,NA,diego manuel woolrich ramirez,cafetal sinai,0772
+0701,comercializadora profesional mexicana s.a. de c.v.,gerardo hernandez valderrabano,NA,0773
+0702,NA,balbino ramirez flores,el desmoronado,0774
+0703,kpfc,kona pacific farmers cooperative,NA,0775
+0704,bourbon specialty coffees,bourbon specialty coffees,cachoeira da grama farm,0776
+0705,bourbon specialty coffees,bourbon specialty coffees,cachoeira da grama farm,0777
+0706,olam honduras  s.a.,mayra yessenia torres,el cerron,0782
+0707,mlimani ngarashi,mlimani ngarashi,rural cooperative society,0840
+0708,kyagalanyi coffee ltd,kyagalanyi ltd,kapchorwa,0297
+0709,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,taiwan hao ka 台灣好咖莊園,0600
+0710,doi tung development project,doi tung development project,doi tung development project,0784
+0711,industrializadora de kaffee andes s.a. de c.v.,alejandro garcia palacios,finca el gavilancillo,0785
+0712,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,NA,0786
+0713,八杞莊園,cqi taiwan icp cqi台灣合作夥伴,八杞莊園,0787
+0714,c dorman ltd,lydiah mwangi,thiririka/maara,0789
+0715,grupo santab s.a. de c.v.,grupo santab s.a de c.v.,finca monte azúl,0790
+0716,sithar coffee co.  ltd.,min hlaing,sithar coffee farm,0791
+0717,karatu estate,karatu estate,karatu estate,0793
+0718,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,張文進莊園,
+0719,volcafe specialty coffee,chris finch,NA,0795
+0720,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,bi yun si shi yi 碧云四十一咖啡坊,
+0721,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,bai he lin coffee 白鶴林咖啡莊園,0600
+0722,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,heng lu coffee 橫鹿咖啡,
+0723,NA,eduardo luis augusto velazquez solis,olotlan  el plan  criollo garnica,0798
+0724,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,savan coffee bean,0799
+0725,the coffee source inc.,the coffee source inc.,several,0800
+0726,productora rural la victoria s.p.r. de r.l.,luis roberto fermoso beltran,la victoria pante nubes,0801
+0727,café san blas,jose manuel vergara cortes,finca santa clara,0802
+0728,NA,christina dusing,selva negra,0876
+0729,bourbon specialty coffees,bourbon specialty coffees,castelhana farm,0805
+0730,NA,u soe,myaing,0666
+0731,comercial internacional exportadora  s.a.,comercial internacional exportadora  s.a.,cafetales santa matilde,0807
+0732,cigrah s.a de c.v,bismarck castro,juan damaso,0808
+0733,NA,diego manuel woolrich ramirez,san josé y el portillo,0802
+0734,haiti coffee,myriam kaplan-pasternak,2000 farms,0810
+0735,kona pacific farmers cooperative,kona pacific farmers cooperative,NA,0811
+0736,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,胖胖糖,0812
+0737,pt. olam indonesia,aulia arif syahri,darmawi,0813
+0738,cafe don balbino s.c. de r.l. de c.v.,cafe de don balbino s.c. de r.l. de c.v.,el desmoronado  talpan de allende jalisco,0816
+0739,finca santo tomas pachuj  guatemala,juan luis alvarado romero,santo tomas pachuj,0818
+0740,NA,racafe & cia s.c.a,NA,0959
+0741,bourbon specialty coffees,bourbon specialty coffees,leticia farm,0820
+0742,exportadora atlantic s.a,exportadora atlantic  s.a.,los saltarines,0935
+0743,burka coffee estate,burka coffee estate,burka coffee estates,0840
+0744,exportcafe,juan luis alvarado romero,finca el naranjal,0823
+0745,王秋金,cqi taiwan icp cqi台灣合作夥伴,王秋金,0787
+0746,peter schoelfeld  s.a,juan luis alvarado romero,el guayabo,0825
+0747,coffee planet corporation s.a,janny marlith torres,la bendicion,0913
+0748,compagnie sucrière de bel ombre ltd,case noyale ltd,case noyale ltd,0827
+0749,bourbon specialty coffees,bourbon specialty coffees,cachoeira da grama farm,0828
+0750,shwe yin mar coffee,shwe yin mar coffee,mixed,0829
+0751,exportadora de cafés carmo de minas ltda,jacques pereira carneiro,pereira estate coffee,0831
+0752,exportcafe,juan luis alvarado romero,barranca de las flores,0832
+0753,cafeorganico.mx,israel eduardo paz garcia,peña negra,0925
+0754,cadexsa,cadexsa,bethel,0834
+0755,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,春風咖啡,
+0756,lusso coffee lab,lusso lab,finca la fany,0835
+0757,yunnan new century tech inc.,adam ciruli ye,alicia's farm,0836
+0758,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,guoxing farm coffee 國姓農場咖啡,0600
+0759,ecomtrading,alfredo bojalil,copalita,0837
+0760,sangana commodities k limited,simon mahinda,NA,0838
+0761,delfina farm,delfina leon shine,delfina farm,0839
+0762,kongoni estate,kongoni estate,kongoni estate,0840
+0763,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,tokoffee莊園,
+0764,unex guatemala  s.a.,juan luis alvarado romero,la castellana,0966
+0765,NA,ethiopia commodity exchange,NA,0843
+0766,volcafe ltda.,volcafe ltda. - brasil,são rafael_ ra/ras certified,0844
+0767,cigrah s.a de c.v,bismarck castro,las moras,0845
+0768,cafe don balbino s.c. de r.l. de c.v.,cafe de don balbino s.c. de r.l. de c.v.,cortapico,0846
+0769,waylead industrial co  ltd.,bob mccauley,waylead farms,0847
+0770,NA,u htun htun,thein kone,0848
+0771,zeas escobar y compañía limitada,gloria antonieta escobar urrutia,finca el consuelo,0849
+0772,costco wholesale industries,honor dela fuente,NA,0851
+0773,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,weng hui ling 翁惠鈴,
+0774,the coffee source inc.,the coffee source inc.,several,0853
+0775,NA,saul m. hernandez ramirez,mirador,0854
+0776,exportadora atlantic s.a,exportadora atlantic  s.a.,los mesones,0898
+0777,café katsina,pablo enrique martinez gama,la orduña  coatepec  veracruz,0985
+0778,cafeorganico.mx,israel eduardo paz garcia,el carrizo,0925
+0779,cafes de naranjal s.a. de c.v,marco virgilio ramirez teliz,el aguacate,0876
+0780,carmo coffees,brayan cunha souza,NA,0863
+0781,宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,好自在咖啡莊園,
+0782,costco wholesale industries,honor dela fuente,NA,0865
+0783,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,sheng he shang pin coffee 聖荷上品咖啡坊,
+0784,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,a shu she coffee 阿束社咖啡莊園,
+0785,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,wu kun shan coffee 吳焜山咖啡園,
+0786,cafeorganico.mx,israel eduardo paz garcia,el tabaco,0925
+0787,NA,federico pacheco perez,NA,0868
+0788,comercial internacional exportadora  s.a.,comercial internacional exportadora  s.a.,santa matilde,0869
+0789,ngu shwe li coffee estate,ngu shwe li,doe kwin,0870
+0790,globus coffee,kurt kappeli,various,0871
+0791,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,zhang li hong coffee 張立宏咖啡莊園,
+0792,NA,pablo enrique martinez gama,la orduña  coatepec  veracruz,0985
+0793,NA,semiramis casas velazquez,santa clara  california y camila,0872
+0794,NA,ethiopia commodity exchange,phone number | 0911-51-08-01  email | at,0873
+0795,industrializadora de kaffee andes s.a. de c.v.,alejandro garcia palacios,finca buenos aires,0785
+0796,NA,christina dusing,rancho san francisco iii,0876
+0797,NA,montegrande,finca monte grande,0877
+0798,NA,pablo enrique martinez gama,finca la orduña,0985
+0799,cafetalera la asunción s.a. de c.v.,jesus carlos cadena valdivia,finca huehuetecpan,0878
+0800,taylor winch (coffee) ltd,kennedy macharia,yara estate / benvar estate,0879
+0801,asociación aldea global jinotega,asociación aldea global jinotega,asociación aldea global jinotega,0880
+0802,NA,sergio de la vequia bernardi,la cuchilla,0931
+0803,red on tree co.  ltd.,lin  che-hao krude 林哲豪,ka-vulungan coffee estate,
+0804,red on tree co.  ltd.,lin  che-hao krude 林哲豪,baijiada coffee farm佰加達咖啡莊園,
+0805,sustainable harvest,dane loraas,NA,0886
+0806,the coffee source inc.,the coffee source inc.,several,0887
+0807,comon yaj noptic s. de ss,leonides de la cruz lopez,comonyaj noptic s de ss,0369
+0808,cafeorganico.mx,israel eduardo paz garcia,peña negra,0888
+0809,ecomtrading,alfredo bojalil,el vergel,0837
+0810,lusso coffee lab,lusso lab,genuine antigua medina,0889
+0811,cafe montegrande,montegrande,finca monte grande,0890
+0812,unex guatemala  s.a.,juan luis alvarado romero,la esmeralda,0882
+0813,consejo salvadoreño del café,consejo salvadoreño del café,la montaña,0891
+0814,NA,saul m. hernandez ramirez,el encinal,0893
+0815,ecomtrading,alfredo bojalil,consolapa,0894
+0816,cafetera el grande s.a. de c.v.,obed rendon ponce,tepetzingo,0896
+0817,blossom valley宸嶧國際,cqi taiwan icp cqi台灣合作夥伴,su-zhen huang 黃素真,0899
+0818,exportadora de cafe condor s.a,exportadora de cafe condor s.a,NA,0900
+0819,NA,mario jose fernandez,casa blanca,0902
+0820,cafessisimo compañia s.a. de c.v.,adriana torres rico quevedo,cre-leg l-4,0905
+0821,royal 1750 coffee,rre kunene,cnra station of divo,0906
+0822,the coffee source inc.,the coffee source inc.,several,0907
+0823,NA,eric jesus cordoba arroyo,el encanto,0909
+0824,NA,eric jesus cordoba arroyo,la gloria,0909
+0825,unex guatemala  s.a.,juan luis alvarado romero,conquista / morito,0987
+0826,red on tree co.  ltd.,lin  che-hao krude 林哲豪,baishencun coffee farm百勝村咖啡莊園,0911
+0827,unex guatemala  s.a.,juan luis alvarado romero,chapultepec,0914
+0828,s&d coffee and tea,brent hall,NA,0916
+0829,cafeorganico.mx,israel eduardo paz garcia,la tejeria,0925
+0830,NA,julio cesar robles flores,el delirio,0917
+0831,NA,masamichi hiroike,various,0918
+0832,cafeorganico.mx,israel eduardo paz garcia,huanacaxtle,0925
+0833,productores e industrializadores de café orgánico la fe s.c. de r.l.,juana rodriguez gutierrez,las palmas,0919
+0834,NA,racafe & cia s.c.a,NA,0920
+0835,cafes finos de exportacion s de r.l.,cafes finos de exportacion s de r.l.,various,0954
+0836,sustainable harvest,sustainable harvest coffee,NA,0923
+0837,café monteabuelo s.a. de c.v.,gonzalo de aquino flores,NA,0924
+0838,cafeorganico.mx,israel eduardo paz garcia,el sauce,0925
+0839,café pico de loro,juan avenamar rodriguez funez,pico del oro,0718
+0840,cafeorganico.mx,israel eduardo paz garcia,la pandora,0925
+0841,exportadora atlantic s.a,exportadora atlantic  s.a.,finca las marías,1000
+0842,kona pacific farmers cooperative,eileen koyanagi,NA,0975
+0843,empagri s.p.r. de r.l. de c.v.,octavio augusto diaz trejo,la patrona  el trebol  la cadena,0931
+0844,NA,damaso martinez perez,el tesoro,0931
+0845,NA,productores de especialidad emiliano zapeata  spr.,los encinos,0932
+0846,yunnan louis herbs r& d center,adam ciruli ye,alicia's farm,0957
+0847,NA,juan garcia hernandez,los pinos,0934
+0848,exportadora atlantic s.a,exportadora atlantic  s.a.,NA,0936
+0849,ecomtrading,alfredo bojalil,grapos el porvenir,0938
+0850,organizaciones de productores de cafe colimense sa de cv,organizaciones de productores de cafe colimense,cofradia,0939
+0851,NA,kona pacific farmers cooperative,kona farms,0940
+0852,unión de ejidos san fernando,kurt kappeli,various,0941
+0853,villa talea café,rosario miguel hernandez,finca sego,0942
+0854,NA,francisco ruiz nunez,cerca de los angeles,0943
+0855,cafeorganico.mx,israel eduardo paz garcia,el naranjo,0925
+0856,unex guatemala  s.a.,juan luis alvarado romero,el sacramento,0987
+0857,asociación agricola local de productores de café de huautla de jimenez,pablo cervantes morelos,llano hermoso,0948
+0858,pt. shriya artha nusantara,sanjava coffee,various,0951
+0859,NA,gustavo amieva gonzalez,NA,0952
+0860,greenhouse coffee china,samuel eli gurel,hani,0957
+0861,industrializadora de kaffee andes s.a. de c.v.,alejandro garcia palacios,finca la fortuna,0785
+0862,NA,mao-heng chu,NA,0959
+0863,NA,gustavo abarca solis,el regadito,0458
+0864,beneficiadora norteña de cafe  s. a. (bencafe),bencafe  s. a.,el brigadum - la coronela,0961
+0865,green mountain coffee,cafe politico,NA,0962
+0866,red on tree co.  ltd.,lin  che-hao krude 林哲豪,dongshan gaoyuan village chief manor coffee tainan  taiwan 台灣台南東山高原村長莊園咖啡,
+0867,kona pacific farmers cooperative,kona pacific farmers cooperative,NA,0975
+0868,NA,stephany escamilla femat,rancho los laureles,0985
+0869,haiti coffee,myriam kaplan-pasternak,mixed,0968
+0870,industrializadora de kaffee andes s.a. de c.v.,alejandro garcia palacios,finca los andes,0785
+0871,tony's coffee and teas  inc.,andrew bowman,producer group (approx. 1 000 farmers),0970
+0872,olam japan,joshua marsceau,NA,0971
+0873,asociación nacional del café - anacafe -,juan luis alvarado romero,conquista / morito,0987
+0874,exportadora moretto s.a. de c.v.,homero antonio de anda andrade,NA,0985
+0875,eduardo ambrocio,juan luis alvarado romero,conquista / morito,0974
+0876,cafeorganico.mx,israel eduardo paz garcia,agua de la mariposa,0925
+0877,NA,william ho,1,0976
+0878,el mejor café,guillermo eduardo bobadilla muguira,finca tepictla,0977
+0879,prime3,ana gonzales,various,0978
+0880,volcafe ltda.,volcafe ltda. - brasil,NA,0979
+0881,productores e industrializadores de café orgánico la fe s.c. de r.l.,juana rodriguez gutierrez,la joya,0981
+0882,sposel s. de s.s.,francisco hernandez lorenzo,zaragoza  montelibano  pamal navil,0982
+0883,union regional de cafeticultores de la mazateca alta,martin jimenez casiano,peña campana,0983
+0884,grupo juvenil magtayani ac,grupo juvenil magtayani  ac,la cruz,0984
+0885,cafeorganico.mx,israel eduardo paz garcia,el limón,0925
+0886,NA,pablo enrique martinez gama,la orduña,0985
+0887,cesmach s.c.,nestor mendez gomez,sierra madre,0396
+0888,NA,jorge octavio escamilla prado,las ceibas,0989
+0889,NA,myrna roxana galvez gonzalez,la marina-el orizabeño,0990
+0890,NA,eugene holman pew,rancho vigia,0985
+0891,upctiz zapoteca s.p.r. de r.l.,kurt kappeli,various,0991
+0892,costco wholesale industries,honor dela fuente,NA,0992
+0893,NA,myriam kaplan-pasternak,2000 farmers,0993
+0894,cafe colonial de tlatlauquitepec,jose armando norberto borzani lemini,la vuelta,0994
+0895,NA,ricardo aaron sampieri marini,la morena,0876
+0896,globus coffee,kurt kappeli,various,0995
+0897,volcafe ltda.,volcafe ltda. - brasil,NA,0996
+0898,terra mia,juan carlos garcia lopez,el centenario,0998
+0899,haiti coffee,myriam kaplan-pasternak,200 farms,0999
+0900,ankole coffee producers coop,ankole coffee producers coop,kyangundu cooperative society,1003
+0901,kaapi royale,nishant gurjer,sethuraman estate kaapi royale,1004
+0902,sethuraman estate,andrew hetzel,sethuraman estate,1005
+0903,ugacof ltd,ugacof,ugacof project area,1006
+0904,katuka development trust ltd,katuka development trust ltd,katikamu capca farmers association,1007
+0905,cafemakers  llc,andrew hetzel,NA,1008
+0906,cafemakers,andrew hetzel,sethuraman estates,1015
+0907,kaapi royale,nishant gurjer,sethuraman estate kaapi royale,1010
+0908,kaapi royale,nishant gurjer,sethuraman estate,1014
+0909,ugacof ltd,ugacof,ishaka,1012
+0910,ugacof ltd,ugacof,ugacof project area,1013
+0911,kaapi royale,nishant gurjer,sethuraman estate kaapi royale,1014
+0912,kasozi coffee farmers association,kasozi coffee farmers association,kasozi coffee farmers,1016
+0913,ankole coffee producers coop,ankole coffee producers coop,kyangundu coop society,1017
+0914,cafemakers  llc,andrew hetzel,sethuraman estates,1021
+0915,kawacom uganda ltd,kawacom uganda ltd,bushenyi,1019
+0916,nitubaasa ltd,nitubaasa ltd,kigezi coffee farmers association,1019
+0917,mannya coffee project,mannya coffee project,mannya coffee project,1020
+0918,cafemakers  llc,andrew hetzel,sethuraman estates,1022
+0919,robustasa,luis robles,robustasa,1023
+0920,global opportunity fund,james moore,fazenda cazengo,1024
+0921,cafe politico,cafe politico,NA,1025
+0922,cafe politico,cafe politico,NA,1026

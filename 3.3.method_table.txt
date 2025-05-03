@@ -1,0 +1,7 @@
+method_id,processing_method
+0001,Washed / Wet
+0002,Na
+0003,Natural / Dry
+0004,Pulped Natural / Honey
+0005,Semi-washed / Semi-pulped
+0006,Other
